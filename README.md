@@ -1,8 +1,6 @@
 # 💜 VioletFolio — Portfolio-Style Website
 
-<p align="center">
-  <img src="gal.jpg" alt="VioletFolio Website" width="750">
-</p>
+
 
 <h3 align="center">
   ✨ A Colorful, Responsive Portfolio-Style Frontend Project ✨
@@ -42,7 +40,7 @@ It includes:
 ## 🏠 Home Section
 
 <p align="center">
-  <img src="screenshots/home.png" alt="VioletFolio Home Section" width="850">
+  <img src="Screenshots/home.png" alt="VioletFolio Home Section" width="850">
 </p>
 
 ---
@@ -50,7 +48,7 @@ It includes:
 ## 👩‍💻 About & Skills Section
 
 <p align="center">
-  <img src="screenshots/about.png" alt="VioletFolio About and Skills Section" width="850">
+  <img src="Screenshots/about.png" alt="VioletFolio About and Skills Section" width="850">
 </p>
 
 ---
@@ -58,7 +56,7 @@ It includes:
 ## 🖼️ Gallery Section
 
 <p align="center">
-  <img src="screenshots/gallery.png" alt="VioletFolio Gallery Section" width="850">
+  <img src="Screenshots/gallery.png" alt="VioletFolio Gallery Section" width="850">
 </p>
 
 ---
@@ -66,18 +64,10 @@ It includes:
 ## 📩 Contact Section
 
 <p align="center">
-  <img src="screenshots/contact.png" alt="VioletFolio Contact Section" width="850">
+  <img src="Screenshots/contact.png" alt="VioletFolio Contact Section" width="850">
 </p>
 
----
 
-## 📱 Responsive Mobile View
-
-<p align="center">
-  <img src="screenshots/responsive.png" alt="VioletFolio Responsive Mobile View" width="450">
-</p>
-
----
 
 # ✨ Features
 
